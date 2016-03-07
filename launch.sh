@@ -117,5 +117,5 @@ else
     rm -rf $HOME/.telegram-cli/state
   fi
 
-  ./tg/bin/telegram-cli -k ./tg/tg-server.pub -s ./bot/bot.lua -l 1 -E $@
+  ./tg/bin/telegram-cli -k ./tg/tg-server.pub -s ./bot/bot.lua -l 1 -E $@ --disable-link-preview
 fi
