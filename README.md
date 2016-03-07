@@ -105,13 +105,13 @@ Then ask You Number To put him Bot
 
 ✅ Group Promote  commands
 
-💭/spromote : up leader by <reply|id|username> 
+💭/spromote : up leader by<reply|id|username> 
 
-💭/sdemote : in promote by <reply|id|username>
+💭/sdemote : in promote by<reply|id|username>
 
-💭/promote : by <reply|id|username> 
+💭/promote : by<reply|id|username> 
 
-💭/demote : by <reply|id|username> 
+💭/demote : by<reply|id|username> 
 
 new:- ⛄
 
@@ -127,6 +127,7 @@ new:- ⛄
 
 
 ➖🔸➖🔹➖🔸➖🔹➖
+
 Version :- 2.0 🌠 Telegram Bot @BotTG
 
 Developer :- " @Mustafaflux "
