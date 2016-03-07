@@ -12,25 +12,30 @@ The Channel on telegram @MasterDev
 
 To install on C9 your next steps
 
-#Step1 : writ this > in Terminal 
+1⃣#Step1 : writ this > in Terminal 
+sudo apt-get update 
+
+2⃣#step2 : writ this > in Terminal 
 sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev
 
-#step2 : writ >
+3⃣#step3 : writ >
 git clone https://github.com/mustafaflux/superflux-bot.git
 
-#step3 : Writ >
+4⃣#step4 : Writ >
 cd superflux-bot
 
-#step4 : Writ >
+5⃣#step5 : Writ >
 ./launch.sh install 
 
 (When the installation finishes)
 
-#step5 : Writ >
+6⃣#step6 : Writ >
 ./launch.sh 
 
 Then ask You Number To put him Bot
-[[ If You Want install on VPS DO JUST From #step2 to #step5]]
+[[ If You Want install on VPS DO JUST From #step3 to #step6]]
+._._._._._.
+
 
 #COMMNDS :> All Work By Reply
 ‌✅Commands part #1
@@ -135,3 +140,8 @@ Developer :- " @Mustafaflux "
 Channel :- @MasterDev
 
 
+🅾If You may question any 
+
+problem can ask #Here  :- 
+
+🌐 https://telegram.me/joinchat/Cjp6HD4q7Bm5OO7HyiXzhQ ✅
