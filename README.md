@@ -30,4 +30,4 @@ cd superflux-bot
 ./launch.sh 
 
 Then ask You Number To put him Bot
-[[If You Want install on VPS DO JUST From #step2 to #step5]]
+[[ If You Want install on VPS DO JUST From #step2 to #step5]]
