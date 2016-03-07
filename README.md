@@ -32,7 +32,7 @@ cd superflux-bot
 Then ask You Number To put him Bot
 [[ If You Want install on VPS DO JUST From #step2 to #step5]]
 
-#COMMNDS :>
+#COMMNDS :> All Work By Reply
 ‌✅Commands part #1
 
 💭/close|open link :- anti link
