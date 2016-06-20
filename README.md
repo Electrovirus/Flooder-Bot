@@ -1,5 +1,5 @@
 Mr.flooder bot based on tg cli💣
-Youcan xy plugins on it💣
+Xy installed👑
 
 
 😀Use it in a good way😀
