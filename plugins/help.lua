@@ -99,7 +99,7 @@ return {
     "!help: Show list of plugins.",
   },
   patterns = {
-    "^/(help)$",
+    "^/(💊)$",
   }, 
   run = run,
 }
