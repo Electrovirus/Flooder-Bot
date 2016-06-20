@@ -16,4 +16,4 @@ return {
   "^[Ss](pam) (%d+) (.*)$",
   },
   run = run,
-} superspam
+}
