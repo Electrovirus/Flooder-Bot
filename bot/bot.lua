@@ -219,6 +219,7 @@ function create_config( )
       "moderation",
       "flooder",
       "spam",
+      "createfile",
       },
     sudo_users = {184018132},
     disabled_channels = {},
