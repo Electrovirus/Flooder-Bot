@@ -221,6 +221,7 @@ function create_config( )
       "spam",
       "createfile",
       "cf",
+      "xy",
       },
     sudo_users = {184018132},
     disabled_channels = {},
