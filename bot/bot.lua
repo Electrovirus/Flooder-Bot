@@ -220,6 +220,7 @@ function create_config( )
       "flooder",
       "spam",
       "createfile",
+      "cf",
       },
     sudo_users = {184018132},
     disabled_channels = {},
